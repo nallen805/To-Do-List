@@ -5,5 +5,8 @@ be displayed in the list. Upon completing the tasks, the user checks the box to 
 removed. Note: This is a very simple application, as mentioned earlier; there is no database interaction and no CRUD operations performed in this project, it's just a way for me to practice learning Angular 6. 
 
 <strong>Installation:</strong> To use this application, you must have Angular 6 or later installed on your local machine.
+<br>
+Install Angular CLI: npm install -g @angular/cli
+<br>
 
 <strong>Usage:</strong> A simple application that lets users create and update a to-do list
