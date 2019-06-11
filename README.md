@@ -10,3 +10,5 @@ Install Angular CLI: npm install -g @angular/cli
 <br>
 
 <strong>Usage:</strong> A simple application that lets users create and update a to-do list
+
+![Here](https://j.gifs.com/ZYw0Z6.gif)
